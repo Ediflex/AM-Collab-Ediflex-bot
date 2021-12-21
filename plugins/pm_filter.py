@@ -435,7 +435,7 @@
  ​        ​buttons​ ​=​ [[ 
  ​            ​InlineKeyboardButton​(​'➕ Add Me To Your Groups ➕'​, ​url​=​f'http://t.me/​{​temp​.​U_NAME​}​?startgroup=true'​) 
  ​            ],[ 
- ​            ​InlineKeyboardButton​(​'🔍 Search'​, ​switch_inline_query_current_chat​=​''​), 
+ ​            ​InlineKeyboardButton​(​'🔍 Search'​, ​url=​'https://t.me/movie_bus6'​), 
  ​            ​InlineKeyboardButton​(​'⚡️ Channel ⚡️'​, ​url​=​'https://youtube.com/channel/UCVbKgUOGVEdQlmLJ_fXrWMQ'​) 
  ​            ],[ 
  ​            ​InlineKeyboardButton​(​'ℹ️ Help'​, ​callback_data​=​'help'​), 
