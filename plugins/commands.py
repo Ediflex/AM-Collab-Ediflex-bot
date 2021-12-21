@@ -19,7 +19,7 @@
  ​    ​if​ ​message​.​chat​.​type​ ​in​ [​'group'​, ​'supergroup'​]: 
  ​        ​buttons​ ​=​ [ 
  ​            [ 
- ​                ​InlineKeyboardButton​(​'🤖 𝐌𝐚፝֟𝐬𝐭𝐞𝐫 🤖'​, ​url​=​'https://t.me/PIES_BOY'​) 
+ ​                ​InlineKeyboardButton​(​'🤖 𝐌𝐚፝֟𝐬𝐭𝐞𝐫 🤖'​, ​url​=​'https://youtube.com/channel/UCVbKgUOGVEdQlmLJ_fXrWMQ'​) 
  ​            ], 
  ​            [ 
  ​                ​InlineKeyboardButton​(​'ℹ️ Help'​, ​url​=​f"https://t.me/​{​temp​.​U_NAME​}​?start=help"​), 
@@ -40,8 +40,8 @@
  ​        ​buttons​ ​=​ [[ 
  ​            ​InlineKeyboardButton​(​'➕ Add Me To Your Groups ➕'​, ​url​=​f'http://t.me/​{​temp​.​U_NAME​}​?startgroup=true'​) 
  ​            ],[ 
- ​            ​InlineKeyboardButton​(​'🔍 Search'​, ​switch_inline_query_current_chat​=​''​), 
- ​            ​InlineKeyboardButton​(​'🤖 𝐌𝐚፝֟𝐬𝐭𝐞𝐫 🤖'​, ​url​=​'https://t.me/PIES_BOY'​) 
+ ​            ​InlineKeyboardButton​(​'🔍 Search'​, ​url='https://t.me/movie_bus6'​), 
+ ​            ​InlineKeyboardButton​(​'🤖 𝐌𝐚፝֟𝐬𝐭𝐞𝐫 🤖'​, ​url​=​'https://youtube.com/channel/UCVbKgUOGVEdQlmLJ_fXrWMQ'​) 
  ​            ],[ 
  ​            ​InlineKeyboardButton​(​'ℹ️ Help'​, ​callback_data​=​'help'​), 
  ​            ​InlineKeyboardButton​(​'😊 About'​, ​callback_data​=​'about'​) 
@@ -81,8 +81,8 @@
  ​        ​buttons​ ​=​ [[ 
  ​            ​InlineKeyboardButton​(​'➕ Add Me To Your Groups ➕'​, ​url​=​f'http://t.me/​{​temp​.​U_NAME​}​?startgroup=true'​) 
  ​            ],[ 
- ​            ​InlineKeyboardButton​(​'🔍 Search'​, ​switch_inline_query_current_chat​=​''​), 
- ​            ​InlineKeyboardButton​(​'🤖 𝐌𝐚፝֟𝐬𝐭𝐞𝐫 🤖'​, ​url​=​'https://t.me/PIES_BOY'​) 
+ ​            ​InlineKeyboardButton​(​'🔍 Search'​, ​url='https://t.me/movie_bus6'​), 
+ ​            ​InlineKeyboardButton​(​'🤖 𝐌𝐚፝֟𝐬𝐭𝐞𝐫 🤖'​, ​url​=​'https://youtube.com/channel/UCVbKgUOGVEdQlmLJ_fXrWMQ'​) 
  ​            ],[ 
  ​            ​InlineKeyboardButton​(​'ℹ️ Help'​, ​callback_data​=​'help'​), 
  ​            ​InlineKeyboardButton​(​'😊📕 About'​, ​callback_data​=​'about'​) 
